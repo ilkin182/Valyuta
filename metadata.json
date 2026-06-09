@@ -1,0 +1,6 @@
+{
+  "name": "Valyuta",
+  "description": "Bütün ölkələrin valyuta məzənnələrini real vaxt rejimində izləyin və çevirin. Minimalist, sürətli və asan istifadə.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
